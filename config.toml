@@ -1,6 +1,6 @@
-baseURL = "https://persimmon.netlify.app"
+baseURL = "https://persimmontesty.netlify.app"
 languageCode = "en-us"
-title = "Recipe"
+title = "Persimmon"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "The place for over 1000 popular recipes for your complete cooking guide"
   topdescription = "The place for over 1000 popular recipes for your complete cooking guide"
-  toptitle = "Recipe"
+  toptitle = "Persimmon"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://persimmon.netlify.app"
+    homepage = "https://persimmontesty.netlify.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
